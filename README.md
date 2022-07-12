@@ -1,4 +1,5 @@
 # _printf
+
 ```_printf``` is a custom implementation of the C programming function ```printf```.
 
 **Prototype:** ```int _printf(const char *, ...);```
@@ -97,4 +98,5 @@
 
 **writee_handlers.c**
 * contains write functions.
+
 FILES WRITTEN BY AWONUGA ISMAIL AND ODUNOYE PELUMI
